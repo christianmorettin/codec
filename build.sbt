@@ -1,4 +1,4 @@
-scalaVersion := "2.13.1"
+scalaVersion := "2.13.0"
 libraryDependencies ++= Seq(
   "org.typelevel" %% "jawn-parser" % "0.14.2",
   "org.scalacheck" %% "scalacheck" % "1.14.2" % Test,
